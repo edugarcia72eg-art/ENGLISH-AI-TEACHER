@@ -1,0 +1,8 @@
+{
+  "name": "Fluent AI - English Tutor",
+  "description": "A real-time interactive English teacher that helps you improve your speaking skills through natural conversation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
